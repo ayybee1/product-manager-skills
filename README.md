@@ -184,7 +184,7 @@ STARTER-PROMPTS.md
 README.zh-CN.md
 ```
 
-Core repo size: about 25 Markdown files, ~2,200 lines, ~130 KB of PM knowledge and templates.
+Core repo size: about 27 Markdown files, ~2,800 lines, under 200 KB of PM knowledge and templates.
 
 ## Trust And Security
 
